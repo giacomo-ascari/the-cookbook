@@ -38,3 +38,16 @@
 .multiline {
     white-space: pre-wrap;
 }
+
+.ta {
+    line-height: 20px;
+    resize: none;
+}
+
+body {
+    background-color: rgb(242, 248, 255);
+}
+
+.page {
+    background-color: white;
+}

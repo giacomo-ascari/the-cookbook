@@ -16,7 +16,6 @@ function authenticate(req: express.Request, res: express.Response, next: express
   
   try {
     const token = jwt.verify(req.session.jwt || "", process.env.JWT_SECRET || "temp_secret");
-    console.log(token)
     next();
   } catch {
     res.status(401);

@@ -89,23 +89,21 @@ function unlock_delete() {
 }
 
 function render_recipe() {
-    let recipe_template = document.getElementById("recipe_template");
-    recipe_template.style = "display;"
-    recipe_template.childNodes.forEach(node => {
-        if (node.textContent && node.tagName != "BUTTON") {
-            if (node.textContent == "update") {
-                let date = new Date(recipe["update"]);
-                node.textContent = date.getDate() + "/" + (date.getMonth()+1) + "/" + date.getFullYear();
-                node.textContent += " - " + date.getHours() + ":" + date.getMinutes();
-            } else {
-                let value = recipe[node.textContent];
-                if (value) {
-                    node.textContent = value;
-                }
-            }
-            
-        }
-    })
+
+    document.getElementById("recipe_title").textContent = recipe["title"];
+    document.getElementById("recipe_subtitle").textContent = recipe["subtitle"];
+    document.getElementById("recipe_from").textContent = recipe["from"];
+    
+    document.getElementById("recipe_ingredients").textContent = recipe["ingredients"];
+    document.getElementById("recipe_method").textContent = recipe["method"];
+    document.getElementById("recipe_notes").textContent = recipe["notes"];
+    
+    let date = new Date(recipe["update"]);
+    let update = date.getDate() + "/" + (date.getMonth()+1) + "/" + date.getFullYear();
+    update += " - " + date.getHours() + ":" + date.getMinutes();
+    document.getElementById("recipe_update").textContent = update;
+
+    document.getElementById("recipe_template").style = "display";
 }
 
 function get_recipes() {
@@ -144,8 +142,13 @@ function delete_recipe() {
     })
 }
 
+function ta_resize() {
+    this.style.height = 0;
+    this.style.height = (this.scrollHeight + 15) + "px";
+}
+
 function build_editor() {
-    
+
     let rid;
     try {
         rid = get_argument("rid");
@@ -165,8 +168,18 @@ function build_editor() {
                         node.value = recipe[node.id.substring(7)];
                     }
                 })
+                const tx = document.getElementsByTagName("textarea");
+                for (let i = 0; i < tx.length; i++) {
+                    tx[i].setAttribute("style", "height:" + (tx[i].scrollHeight + 15) + "px;overflow-y:hidden;");
+                    tx[i].addEventListener("input", ta_resize, false);
+                }      
             }
         })
+    } else {
+        let recipe_form = document.getElementById("recipe_form");
+        recipe_form.style = "display;"
+        let spinner = document.getElementById("spinner");
+        spinner.style = "display: None;"
     }
 }
 

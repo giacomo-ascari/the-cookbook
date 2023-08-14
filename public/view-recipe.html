@@ -19,7 +19,7 @@
 
 <body class="py-4" onload="get_recipe();">
 
-  <div class="container">
+  <div class="container rounded page p-4">
 
     <div class="row">
       <div class="col">
@@ -41,14 +41,14 @@
     </div>
 
     <div id="recipe_template" style="display: None;">
-      <h1>title</h1>
-      <h2>subtitle</h2>
-      <h3>from</h3>
-      <i>update</i>
+      <h1 id="recipe_title"></h1>
+      <h2 id="recipe_subtitle"></h2>
+      <h3 id="recipe_from"></h3>
+      <i id="recipe_update"></i>
       <hr>
-      <p class="multiline">ingredients</p>
-      <p class="multiline">method</p>
-      <p class="multiline">notes</p>
+      <p class="multiline" id="recipe_ingredients">ingredients</p>
+      <p class="multiline" id="recipe_method">method</p>
+      <p class="multiline" id="recipe_notes">notes</p>
     </div>
 
 
