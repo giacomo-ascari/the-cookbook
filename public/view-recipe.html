@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="Giacomo Ascari">
+  <title>Ricettario - visualizza</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="bootstrap.min.css" rel="stylesheet">
+  <!-- Custom styles for this template -->
+  <link href="style.css" rel="stylesheet">
+  <link rel="icon" href="favicon.ico">
+
+  <script type="text/javascript" src="script.js"></script>
+</head>
+
+<body class="py-4" onload="get_recipe();">
+
+  <div class="container">
+
+    <div class="row">
+      <div class="col">
+        <h1>Ricettario</h1>
+      </div>
+      <div class="col-md-auto">
+        <form class="d-flex">
+          <button class="btn btn-outline-primary" type="button" onclick="goto_home();">Home</button>
+          <button class="btn btn-outline-primary" type="button" onclick="goto_edit();" style="margin-left: 3px;">Modifica</button>
+          <button class="btn btn-outline-danger" type="button" onclick="goto_delete();" style="margin-left: 3px;">Elimina</button>
+        </form>
+      </div>
+    </div>
+
+    <br><br>
+
+    <div class="spinner-border m-2" role="status" id="spinner">
+      <span class="sr-only" style="display: None;">Loading...</span>
+    </div>
+
+    <div id="recipe_template" style="display: None;">
+      <h1>title</h1>
+      <h2>subtitle</h2>
+      <h3>from</h3>
+      <i>update</i>
+      <hr>
+      <p class="multiline">ingredients</p>
+      <p class="multiline">method</p>
+      <p class="multiline">notes</p>
+    </div>
+
+
+  </div>
+
+</body>
+
+</html>

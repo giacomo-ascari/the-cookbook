@@ -1,0 +1,2655 @@
+[MASTER] time: Wed Aug 02 2023 15:08:17 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 18448
+[MASTER] worker count: 2
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] port: 8080
+[MASTER] worker pid 20824 forked
+[MASTER] worker pid 21500 forked
+[MASTER] worker pid 20824 exited
+[MASTER] worker pid 24800 forked
+[MASTER] worker pid 21500 exited
+[MASTER] worker pid 28744 forked
+[MASTER] worker pid 28744 exited
+[MASTER] worker pid 10808 forked
+[MASTER] worker pid 21928 forked
+[MASTER] worker pid 24800 exited
+[MASTER] worker pid 10808 exited
+[MASTER] worker pid 10912 forked
+[MASTER] worker pid 21928 exited
+[MASTER] worker pid 13596 forked
+[MASTER] worker pid 13596 exited
+[MASTER] worker pid 19024 forked
+[MASTER] worker pid 21248 forked
+[MASTER] worker pid 10912 exited
+[MASTER] worker pid 21248 exited
+[MASTER] worker pid 19024 exited
+[MASTER] worker pid 15160 forked
+[MASTER] worker pid 9096 forked
+[MASTER] worker pid 9096 exited
+[MASTER] worker pid 15068 forked
+[MASTER] worker pid 15160 exited
+[MASTER] worker pid 6332 forked
+[MASTER] worker pid 15068 exited
+[MASTER] worker pid 29216 forked
+[MASTER] worker pid 6332 exited
+[MASTER] worker pid 27744 forked
+[MASTER] worker pid 27744 exited
+[MASTER] worker pid 25308 forked
+[MASTER] worker pid 29216 exited
+[MASTER] worker pid 28284 forked
+[MASTER] worker pid 25308 exited
+[MASTER] worker pid 23684 forked
+[MASTER] worker pid 7092 forked
+[MASTER] worker pid 28284 exited
+[MASTER] worker pid 7092 exited
+[MASTER] worker pid 5196 forked
+[MASTER] worker pid 352 forked
+[MASTER] worker pid 23684 exited
+[MASTER] worker pid 352 exited
+[MASTER] worker pid 21488 forked
+[MASTER] worker pid 5196 exited
+[MASTER] worker pid 24396 forked
+[MASTER] worker pid 21488 exited
+[MASTER] worker pid 10208 forked
+[MASTER] worker pid 24396 exited
+[MASTER] worker pid 18148 forked
+[MASTER] worker pid 18148 exited
+[MASTER] worker pid 22672 forked
+[MASTER] worker pid 10208 exited
+[MASTER] worker pid 23048 forked
+[MASTER] worker pid 23048 exited
+[MASTER] worker pid 6904 forked
+[MASTER] worker pid 22672 exited
+[MASTER] worker pid 1188 forked
+[MASTER] worker pid 6904 exited
+[MASTER] worker pid 1188 exited
+[MASTER] worker pid 7204 forked
+[MASTER] worker pid 20956 forked
+[MASTER] worker pid 20956 exited
+[MASTER] worker pid 7328 forked
+[MASTER] worker pid 7204 exited
+[MASTER] worker pid 28544 forked
+[MASTER] worker pid 7328 exited
+[MASTER] worker pid 2396 forked
+[MASTER] worker pid 14380 forked
+[MASTER] worker pid 28544 exited
+[MASTER] worker pid 14380 exited
+[MASTER] worker pid 29700 forked
+[MASTER] worker pid 2396 exited
+[MASTER] worker pid 8268 forked
+[MASTER] worker pid 29700 exited
+[MASTER] worker pid 29012 forked
+[MASTER] worker pid 8268 exited
+[MASTER] worker pid 10792 forked
+[MASTER] worker pid 10792 exited
+[MASTER] worker pid 29012 exited
+[MASTER] worker pid 6720 forked
+[MASTER] worker pid 4560 forked
+[MASTER] worker pid 4560 exited
+[MASTER] worker pid 6720 exited
+[MASTER] worker pid 5772 forked
+[MASTER] worker pid 25880 forked
+[MASTER] worker pid 25880 exited
+[MASTER] worker pid 15076 forked
+[MASTER] worker pid 5772 exited
+[MASTER] worker pid 28140 forked
+[MASTER] worker pid 28140 exited
+[MASTER] worker pid 15076 exited
+[MASTER] worker pid 17460 forked
+[MASTER] worker pid 21848 forked
+[MASTER] worker pid 21848 exited
+[MASTER] worker pid 9960 forked
+[MASTER] worker pid 17460 exited
+[MASTER] worker pid 18160 forked
+[MASTER] worker pid 18160 exited
+[MASTER] worker pid 15136 forked
+[MASTER] worker pid 12736 forked
+[MASTER] worker pid 9960 exited
+[MASTER] worker pid 12736 exited
+[MASTER] worker pid 20224 forked
+[MASTER] worker pid 15136 exited
+[MASTER] worker pid 6016 forked
+[MASTER] worker pid 20224 exited
+[MASTER] worker pid 18120 forked
+[MASTER] worker pid 12876 forked
+[MASTER] worker pid 6016 exited
+[MASTER] worker pid 12876 exited
+[MASTER] worker pid 9012 forked
+[MASTER] worker pid 18120 exited
+[MASTER] worker pid 16304 forked
+[MASTER] worker pid 16304 exited
+[MASTER] worker pid 30652 forked
+[MASTER] worker pid 9012 exited
+[MASTER] worker pid 24936 forked
+[MASTER] worker pid 30652 exited
+[MASTER] worker pid 30000 forked
+[MASTER] worker pid 24936 exited
+[MASTER] worker pid 8856 forked
+[DEBUG] 1
+[DEBUG] 13428
+[MASTER] pid: 13428
+[MASTER] time: Fri Aug 04 2023 12:01:20 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] port: 8080
+[MASTER] worker count: 2
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 8292 forked
+[MASTER] worker pid 17800 forked
+[DEBUG] 1
+[DEBUG] 17800
+[WORKER] WPID: 17800
+	TypeORM connection established
+[DEBUG] 1
+[DEBUG] 8292
+[WORKER] WPID: 8292
+	TypeORM connection established
+[DEBUG] 1
+[DEBUG] 16540
+[DEBUG] 16540
+[DEBUG] 16540
+[DEBUG] 16540
+[MASTER] time: Fri Aug 04 2023 12:01:51 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 16540
+[DEBUG] 16540
+[MASTER] worker count: 2
+[MASTER] port: 8080
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 26708 forked
+[MASTER] worker pid 13424 forked
+[DEBUG] 1
+[DEBUG] 26708
+[DEBUG] 26708
+[DEBUG] 26708
+[DEBUG] 26708
+[DEBUG] 26708
+[WORKER] WPID: 26708
+	TypeORM connection established
+[DEBUG] 1
+[DEBUG] 13424
+[DEBUG] 13424
+[DEBUG] 13424
+[DEBUG] 13424
+[WORKER] WPID: 13424
+	TypeORM connection established
+[DEBUG] 13424
+[MASTER] time: Fri Aug 04 2023 12:23:09 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 10728
+[MASTER] port: 8080
+[MASTER] worker count: 2
+[MASTER] worker pid 1260 forked
+[MASTER] worker pid 26172 forked
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] time: Fri Aug 04 2023 12:43:43 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 27944
+[MASTER] port: 8080
+[MASTER] worker count: 2
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 30656 forked
+[MASTER] worker pid 2180 forked
+[WORKER] datasource initialized
+[WORKER] datasource initialized
+[MASTER] time: Fri Aug 04 2023 12:48:09 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 11432
+[MASTER] worker count: 2
+[MASTER] port: 8080
+[MASTER] worker pid 8448 forked
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 20600 forked
+[WORKER] datasource initialized
+[WORKER] datasource initialized
+[MASTER] time: Fri Aug 04 2023 12:49:27 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 29680
+[MASTER] worker count: 2
+[MASTER] port: 8080
+[MASTER] worker pid 26508 forked
+[MASTER] worker pid 4684 forked
+[MASTER] listening on http://localhost:8080/the-cookbook
+[WORKER] datasource initialized
+[WORKER] datasource initialized
+[MASTER] time: Fri Aug 04 2023 18:31:20 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 20224
+[MASTER] worker count: 2
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] port: 8080
+[MASTER] worker pid 31836 forked
+[MASTER] worker pid 20536 forked
+[WORKER] datasource initialized
+[WORKER] datasource initialized
+[MASTER] time: Fri Aug 04 2023 21:31:10 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 4672
+[MASTER] worker count: 2
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] port: 8080
+[MASTER] worker pid 6428 forked
+[MASTER] worker pid 11140 forked
+[WORKER] datasource initialized
+[WORKER] datasource initialized
+[MASTER] time: Fri Aug 04 2023 21:35:10 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 7212
+[MASTER] worker count: 2
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] port: 8080
+[MASTER] worker pid 18376 forked
+[MASTER] worker pid 23068 forked
+[WORKER] datasource initialized
+[MASTER] worker pid 18376 exited
+[MASTER] worker pid 6404 forked
+[WORKER] datasource initialized
+[MASTER] time: Fri Aug 04 2023 21:35:32 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 8332
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 31492 forked
+[WORKER] datasource initialized
+[MASTER] time: Fri Aug 04 2023 21:35:44 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 24956
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] worker pid 4164 forked
+[MASTER] listening on http://localhost:8080/the-cookbook
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-04T19:42:07.081Z
+	WPID: 4164
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:00848645-c954-4123-8a17-0329863b8d11
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-04T19:45:03.551Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-04T19:45:06.718Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	QUERY: {"rid":"12"}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-04T19:45:10.263Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe?rid=9
+	FROM: ::1 | TIME: 2023-08-04T19:45:13.385Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=9
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	QUERY: {"rid":"9"}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-04T19:45:18.705Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe?rid=11
+	FROM: ::1 | TIME: 2023-08-04T19:45:19.495Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=11
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	QUERY: {"rid":"11"}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-04T19:45:21.777Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-04T19:45:22.901Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-04T19:45:24.974Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe?rid=11
+	FROM: ::1 | TIME: 2023-08-04T19:45:25.840Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=11
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"502-31szKRMFiOc3nMbyMaBC4Z9cOBg"
+	QUERY: {"rid":"11"}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-04T19:45:30.962Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-04T19:45:32.053Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-04T19:45:32.693Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/edit-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-04T19:45:36.115Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-04T20:10:50.207Z
+	WPID: 4164
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: pragma:no-cache
+	HEADER: cache-control:no-cache
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	QUERY: {}
+	BODY: {}
+[MASTER] time: Tue Aug 08 2023 22:11:08 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 25076
+[MASTER] port: 8080
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 30372 forked
+[MASTER] worker count: 1
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-08T20:11:14.249Z
+	WPID: 30372
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:7f0873c4-b0ef-4ece-ab05-93d7f7ce605c
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/test-auth
+	FROM: ::1 | TIME: 2023-08-08T20:11:44.042Z
+	WPID: 30372
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:50d28166-bf8b-4bec-a79f-a32ff8898dc4
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {}
+	BODY: {}
+[MASTER] time: Wed Aug 09 2023 14:08:06 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 27064
+[MASTER] worker count: 1
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] port: 8080
+[MASTER] worker pid 20468 forked
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/api/test-auth
+	FROM: ::1 | TIME: 2023-08-09T12:08:09.453Z
+	WPID: 20468
+	HEADER: authorization:aaa
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:9a90f181-8542-42db-8b05-415f17222bc3
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/test-auth
+	FROM: ::1 | TIME: 2023-08-09T12:08:15.408Z
+	WPID: 20468
+	HEADER: authorization:password
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:96cc6f1a-e6e6-4ed0-b541-9d0f69fb6fb2
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-09T17:01:08.943Z
+	WPID: 20468
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	QUERY: {}
+	BODY: {}
+[MASTER] time: Wed Aug 09 2023 19:01:21 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 25380
+[MASTER] worker count: 1
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 27696 forked
+[MASTER] port: 8080
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-09T17:01:26.776Z
+	WPID: 27696
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	QUERY: {"rid":"12"}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-09T17:02:58.434Z
+	WPID: 27696
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-09T17:02:59.796Z
+	WPID: 27696
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-09T17:03:01.418Z
+	WPID: 27696
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-09T17:03:02.183Z
+	WPID: 27696
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[MASTER] time: Wed Aug 09 2023 20:53:15 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] port: 8080
+[MASTER] pid: 8792
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker count: 1
+[MASTER] worker pid 25976 forked
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-09T18:53:51.581Z
+	WPID: 25976
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: authorization:Basic YWRtaW46c3VwZXJzZWNyZXQxMjM=
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-09T18:53:52.835Z
+	WPID: 25976
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: authorization:Basic YWRtaW46c3VwZXJzZWNyZXQxMjM=
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	QUERY: {"rid":"12"}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-09T18:53:58.157Z
+	WPID: 25976
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: authorization:Basic YWRtaW46c3VwZXJzZWNyZXQxMjM=
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-09T18:54:07.760Z
+	WPID: 25976
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: authorization:Basic YWRtaW46c3VwZXJzZWNyZXQxMjM=
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/api/recipe?rid=7
+	FROM: ::1 | TIME: 2023-08-09T18:54:09.800Z
+	WPID: 25976
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: authorization:Basic YWRtaW46c3VwZXJzZWNyZXQxMjM=
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=7
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	QUERY: {"rid":"7"}
+	BODY: {}
+[MASTER] time: Wed Aug 09 2023 20:54:47 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 15140
+[MASTER] worker count: 1
+[MASTER] worker pid 16220 forked
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] port: 8080
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/api/recipe?rid=11
+	FROM: ::1 | TIME: 2023-08-09T18:54:50.996Z
+	WPID: 16220
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: authorization:Basic YWRtaW46c3VwZXJzZWNyZXQxMjM=
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=11
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	QUERY: {"rid":"11"}
+	BODY: {}
+[MASTER] time: Wed Aug 09 2023 20:56:19 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 19048
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 28452 forked
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-09T18:56:22.274Z
+	WPID: 28452
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: authorization:Basic YWRtaW46c3VwZXJzZWNyZXQxMjM=
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+[MASTER] time: Wed Aug 09 2023 21:01:58 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 9136
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] worker pid 21012 forked
+[WORKER] datasource initialized
+[MASTER] time: Wed Aug 09 2023 21:56:36 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] port: 8080
+[MASTER] pid: 23956
+[MASTER] worker count: 1
+[MASTER] worker pid 29380 forked
+[MASTER] listening on http://localhost:8080/the-cookbook
+[WORKER] datasource initialized
+[MASTER] time: Thu Aug 10 2023 10:53:32 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 26944
+[MASTER] worker count: 1
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] port: 8080
+[MASTER] worker pid 22780 forked
+[WORKER] datasource initialized
+[MASTER] time: Thu Aug 10 2023 11:01:54 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 20736
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 19016 forked
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T09:02:24.056Z
+	WPID: 19016
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:3521e9de-72ac-457c-80ec-13808cb79b44
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {}
+	BODY: {}
+[MASTER] time: Thu Aug 10 2023 11:02:47 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 26060
+[MASTER] worker count: 1
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] port: 8080
+[MASTER] worker pid 27500 forked
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T09:02:50.638Z
+	WPID: 27500
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:24920af6-fe1c-471f-8345-927bf3846b57
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {}
+	BODY: {}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:03:07.119Z
+	WPID: 27500
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:ee1d680d-606f-407a-b10a-2bac0eceb632
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:03:11.653Z
+	WPID: 27500
+	HEADER: p:
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:c3ef107f-bb1a-4188-a0f8-24446f548382
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:03:20.131Z
+	WPID: 27500
+	HEADER: p:aaa
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:725cad49-8c7f-4a7f-b625-661511895aff
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:04:16.145Z
+	WPID: 27500
+	HEADER: p:aaa
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:41d79de8-b5c0-499f-ac51-1e4c73a4a263
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:09:56.290Z
+	WPID: 27500
+	HEADER: p:aaa
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:9d5524fc-9ae9-4671-be86-be0ffb5b5a3f
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[MASTER] time: Thu Aug 10 2023 11:11:02 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 7204
+[MASTER] worker count: 1
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 12876 forked
+[MASTER] port: 8080
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:11:04.718Z
+	WPID: 12876
+	HEADER: p:aaa
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:dbcfdc01-0b73-4068-af19-3568ccea443d
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[MASTER] time: Thu Aug 10 2023 11:11:24 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 25492
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 9816 forked
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:11:27.169Z
+	WPID: 9816
+	HEADER: p:aaa
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:bebb3839-32b4-41cd-be4b-b6ce0872d80f
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[MASTER] time: Thu Aug 10 2023 11:13:10 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 11380
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] worker pid 10764 forked
+[MASTER] listening on http://localhost:8080/the-cookbook
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:13:12.467Z
+	WPID: 10764
+	HEADER: p:aaa
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:b18f90a6-045c-4434-b82e-180008768115
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:13:51.988Z
+	WPID: 10764
+	HEADER: p:Mf1305-1
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:e9c4ccb4-8e92-4abc-aee1-16f4e856514b
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:14:07.975Z
+	WPID: 10764
+	HEADER: p:Mf1305-1
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:be613079-c959-42ab-a363-543bd5afc776
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:14:13.928Z
+	WPID: 10764
+	HEADER: p:Mf1305-1
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:3c85dc90-23cd-4995-a026-989d42699af0
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[MASTER] time: Thu Aug 10 2023 11:14:44 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 22832
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] worker pid 22376 forked
+[MASTER] listening on http://localhost:8080/the-cookbook
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T09:14:46.744Z
+	WPID: 22376
+	HEADER: p:Mf1305-1
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:d2cf30b3-a062-4307-bd0f-a77b14a3efc2
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+[MASTER] time: Thu Aug 10 2023 15:41:03 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 8156
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] worker pid 12040 forked
+[WORKER] datasource initialized
+[MASTER] time: Thu Aug 10 2023 15:46:48 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 8064
+[MASTER] worker count: 1
+[MASTER] worker pid 7704 forked
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] port: 8080
+[WORKER] datasource initialized
+[MASTER] time: Thu Aug 10 2023 15:47:43 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 26668
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] worker pid 21492 forked
+[MASTER] listening on http://localhost:8080/the-cookbook
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T13:47:46.640Z
+	WPID: 21492
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:e4a04ffb-44db-45e0-ae8a-18a9420dd9e5
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {}
+[WORKER] GET /the-cookbook/api/test-auth
+	FROM: ::1 | TIME: 2023-08-10T13:47:55.536Z
+	WPID: 21492
+	HEADER: authorization:password
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:7fe22232-132a-4b20-abaa-af95a408b8bb
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AIJBvAF7w6R2ZK8VG1wBEzusCeL_18L_N.3GXCvlVpjYN%2Bk%2FjlQVoeyNaxUuxhDkGA5THRsjkdLN8
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:IJBvAF7w6R2ZK8VG1wBEzusCeL_18L_N.3GXCvlVpjYN+k/jlQVoeyNaxUuxhDkGA5THRsjkdLN8"}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T13:48:10.430Z
+	WPID: 21492
+	HEADER: p:Mf1305-1
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:2e57037d-7f16-452f-8e73-0c41d6b7d4e1
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AIJBvAF7w6R2ZK8VG1wBEzusCeL_18L_N.3GXCvlVpjYN%2Bk%2FjlQVoeyNaxUuxhDkGA5THRsjkdLN8
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:IJBvAF7w6R2ZK8VG1wBEzusCeL_18L_N.3GXCvlVpjYN+k/jlQVoeyNaxUuxhDkGA5THRsjkdLN8"}
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T13:49:41.838Z
+	WPID: 21492
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:81900808-0553-40ff-822a-312b6bd38738
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AIJBvAF7w6R2ZK8VG1wBEzusCeL_18L_N.3GXCvlVpjYN%2Bk%2FjlQVoeyNaxUuxhDkGA5THRsjkdLN8
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3NTI5MCwiZXhwIjoxNjk0MDk0NDkwfQ.jev7hfErELD5fWR0p7lkXK_BW33flcdwcUVy8EiGhAg"}
+	COOKIES: {"connect.sid":"s:IJBvAF7w6R2ZK8VG1wBEzusCeL_18L_N.3GXCvlVpjYN+k/jlQVoeyNaxUuxhDkGA5THRsjkdLN8"}
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T13:53:29.210Z
+	WPID: 21492
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:fd37c017-c108-4219-9042-7d7dffc49b1f
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AIJBvAF7w6R2ZK8VG1wBEzusCeL_18L_N.3GXCvlVpjYN%2Bk%2FjlQVoeyNaxUuxhDkGA5THRsjkdLN8
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3NTI5MCwiZXhwIjoxNjk0MDk0NDkwfQ.jev7hfErELD5fWR0p7lkXK_BW33flcdwcUVy8EiGhAg"}
+	COOKIES: {"connect.sid":"s:IJBvAF7w6R2ZK8VG1wBEzusCeL_18L_N.3GXCvlVpjYN+k/jlQVoeyNaxUuxhDkGA5THRsjkdLN8"}
+[MASTER] time: Thu Aug 10 2023 15:53:37 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] worker count: 1
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] port: 8080
+[MASTER] worker pid 12044 forked
+[MASTER] pid: 24940
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T13:53:41.168Z
+	WPID: 12044
+	HEADER: p:Mf1305-1
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:ffcff081-c451-4c08-9d6c-df94bd09f1fb
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AIJBvAF7w6R2ZK8VG1wBEzusCeL_18L_N.3GXCvlVpjYN%2Bk%2FjlQVoeyNaxUuxhDkGA5THRsjkdLN8
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:IJBvAF7w6R2ZK8VG1wBEzusCeL_18L_N.3GXCvlVpjYN+k/jlQVoeyNaxUuxhDkGA5THRsjkdLN8"}
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T13:53:47.290Z
+	WPID: 12044
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:fd201a0a-d532-4a04-b3a7-1322e57736cb
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3A3qOirV9doiQWaabQlY-eospdocbOxWTr.xkOxAEG55bRFxMJX7MzBl5kmvkhm6KH3WjyfwYQnIRs
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3NTYyMSwiZXhwIjoxNjk0MDk0ODIxfQ.-9B4Mf6xHIYxv6cZcbpQbYUSJ3P0ScGDnliyyqCJmf4"}
+	COOKIES: {"connect.sid":"s:3qOirV9doiQWaabQlY-eospdocbOxWTr.xkOxAEG55bRFxMJX7MzBl5kmvkhm6KH3WjyfwYQnIRs"}
+[MASTER] time: Thu Aug 10 2023 15:54:13 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 25280
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 15248 forked
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T13:54:16.230Z
+	WPID: 15248
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:d1e317d2-118c-449c-b00e-3dacd5623630
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3A3qOirV9doiQWaabQlY-eospdocbOxWTr.xkOxAEG55bRFxMJX7MzBl5kmvkhm6KH3WjyfwYQnIRs
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:3qOirV9doiQWaabQlY-eospdocbOxWTr.xkOxAEG55bRFxMJX7MzBl5kmvkhm6KH3WjyfwYQnIRs"}
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T13:54:17.755Z
+	WPID: 15248
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:38518528-dc9a-417a-a978-cce84564b5b4
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AJIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX%2FNjrZLlP23Jt1llw
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:JIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX/NjrZLlP23Jt1llw"}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T13:54:21.334Z
+	WPID: 15248
+	HEADER: p:Mf1305-1
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:b6f30336-9baa-4ed9-9217-3930f1a58a94
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AJIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX%2FNjrZLlP23Jt1llw
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:JIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX/NjrZLlP23Jt1llw"}
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T13:54:24.693Z
+	WPID: 15248
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:b4c74275-bd95-46b6-b8e6-fb982123689d
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AJIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX%2FNjrZLlP23Jt1llw
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3NTY2MSwiZXhwIjoxNjk0MDk0ODYxfQ.gM9zjgky4hkcW3Ejcz8uFgosxZYONcabu8KThHwvdFI"}
+	COOKIES: {"connect.sid":"s:JIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX/NjrZLlP23Jt1llw"}
+[WORKER] GET /the-cookbook/api/test-auth
+	FROM: ::1 | TIME: 2023-08-10T13:55:03.838Z
+	WPID: 15248
+	HEADER: authorization:password
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:80d47926-4984-4ef9-97f9-f26d1e8fe22d
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AJIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX%2FNjrZLlP23Jt1llw
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3NTY2MSwiZXhwIjoxNjk0MDk0ODYxfQ.gM9zjgky4hkcW3Ejcz8uFgosxZYONcabu8KThHwvdFI"}
+	COOKIES: {"connect.sid":"s:JIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX/NjrZLlP23Jt1llw"}
+[WORKER] GET /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T13:57:58.809Z
+	WPID: 15248
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:7b461297-20c7-4117-8f7f-57c153aecb00
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AJIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX%2FNjrZLlP23Jt1llw
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3NTY2MSwiZXhwIjoxNjk0MDk0ODYxfQ.gM9zjgky4hkcW3Ejcz8uFgosxZYONcabu8KThHwvdFI"}
+	COOKIES: {"connect.sid":"s:JIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX/NjrZLlP23Jt1llw"}
+[WORKER] GET /the-cookbook/logoui
+	FROM: ::1 | TIME: 2023-08-10T13:58:09.016Z
+	WPID: 15248
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:8d2265df-4aee-4203-9cbc-9b2945dc51fa
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AJIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX%2FNjrZLlP23Jt1llw
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3NTY2MSwiZXhwIjoxNjk0MDk0ODYxfQ.gM9zjgky4hkcW3Ejcz8uFgosxZYONcabu8KThHwvdFI"}
+	COOKIES: {"connect.sid":"s:JIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX/NjrZLlP23Jt1llw"}
+[WORKER] GET /the-cookbook/logout
+	FROM: ::1 | TIME: 2023-08-10T13:58:11.211Z
+	WPID: 15248
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:968579fb-7c4a-4fe8-a2fc-7742aa7ee74f
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AJIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX%2FNjrZLlP23Jt1llw
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3NTY2MSwiZXhwIjoxNjk0MDk0ODYxfQ.gM9zjgky4hkcW3Ejcz8uFgosxZYONcabu8KThHwvdFI"}
+	COOKIES: {"connect.sid":"s:JIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX/NjrZLlP23Jt1llw"}
+[MASTER] time: Thu Aug 10 2023 15:58:22 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 25156
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] worker pid 6456 forked
+[MASTER] listening on http://localhost:8080/the-cookbook
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/logout
+	FROM: ::1 | TIME: 2023-08-10T13:58:25.231Z
+	WPID: 6456
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:eee48e3f-0934-4bce-b081-c8d5bf7cafee
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AJIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX%2FNjrZLlP23Jt1llw
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:JIarW1Tum43mpU0iO38pl4pnmkJHUSU8.b8aphJOi5TUy3CXaESdDyuhXvLX/NjrZLlP23Jt1llw"}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T13:58:29.093Z
+	WPID: 6456
+	HEADER: p:Mf1305-1
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:72f3630b-de2f-40c0-99d2-c00da071af25
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3Azs02bpCVFp4ElRkdfjQGpRfsbIa6AGzI.J46mVgdQpDWrB5PCLFPtkfCqAm8RRfGys0a5FtH0Fyg
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:zs02bpCVFp4ElRkdfjQGpRfsbIa6AGzI.J46mVgdQpDWrB5PCLFPtkfCqAm8RRfGys0a5FtH0Fyg"}
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T13:58:31.136Z
+	WPID: 6456
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:4f746353-9200-487c-a03e-cd5f59650337
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3Azs02bpCVFp4ElRkdfjQGpRfsbIa6AGzI.J46mVgdQpDWrB5PCLFPtkfCqAm8RRfGys0a5FtH0Fyg
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3NTkwOSwiZXhwIjoxNjk0MDk1MTA5fQ.wG0tZpI7N58JkGg6o7Kxl6-4d6zWnWr92kMf3bo11XA"}
+	COOKIES: {"connect.sid":"s:zs02bpCVFp4ElRkdfjQGpRfsbIa6AGzI.J46mVgdQpDWrB5PCLFPtkfCqAm8RRfGys0a5FtH0Fyg"}
+[WORKER] GET /the-cookbook/logout
+	FROM: ::1 | TIME: 2023-08-10T13:58:34.377Z
+	WPID: 6456
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:403236e9-c24c-4520-96a2-52277b2ab350
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3Azs02bpCVFp4ElRkdfjQGpRfsbIa6AGzI.J46mVgdQpDWrB5PCLFPtkfCqAm8RRfGys0a5FtH0Fyg
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3NTkwOSwiZXhwIjoxNjk0MDk1MTA5fQ.wG0tZpI7N58JkGg6o7Kxl6-4d6zWnWr92kMf3bo11XA"}
+	COOKIES: {"connect.sid":"s:zs02bpCVFp4ElRkdfjQGpRfsbIa6AGzI.J46mVgdQpDWrB5PCLFPtkfCqAm8RRfGys0a5FtH0Fyg"}
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T13:58:41.522Z
+	WPID: 6456
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:603216a9-5013-4e8f-b268-d8f6a4c75f5e
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AC1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.%2BGUu4UmjqvnI279aSdYZ5p0W%2FGOkxkJj9xAGRGUylpI
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:C1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.+GUu4UmjqvnI279aSdYZ5p0W/GOkxkJj9xAGRGUylpI"}
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T13:58:42.393Z
+	WPID: 6456
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:ff4535da-08ca-4ab3-8d3a-e2a2209ce5e1
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AC1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.%2BGUu4UmjqvnI279aSdYZ5p0W%2FGOkxkJj9xAGRGUylpI
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:C1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.+GUu4UmjqvnI279aSdYZ5p0W/GOkxkJj9xAGRGUylpI"}
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T13:58:42.912Z
+	WPID: 6456
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:d8013709-4deb-422f-b7d0-f0b399149b17
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AC1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.%2BGUu4UmjqvnI279aSdYZ5p0W%2FGOkxkJj9xAGRGUylpI
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:C1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.+GUu4UmjqvnI279aSdYZ5p0W/GOkxkJj9xAGRGUylpI"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T14:38:34.043Z
+	WPID: 6456
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AKEy-9C1ShdBdI6yM0n1JYec7Kz7eq5tc.SnZHZ4cOU1xv47pFoxKK3ADMvVZ0tJx18n46SH8mHpI
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:KEy-9C1ShdBdI6yM0n1JYec7Kz7eq5tc.SnZHZ4cOU1xv47pFoxKK3ADMvVZ0tJx18n46SH8mHpI"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T14:43:35.464Z
+	WPID: 6456
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AKEy-9C1ShdBdI6yM0n1JYec7Kz7eq5tc.SnZHZ4cOU1xv47pFoxKK3ADMvVZ0tJx18n46SH8mHpI
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:KEy-9C1ShdBdI6yM0n1JYec7Kz7eq5tc.SnZHZ4cOU1xv47pFoxKK3ADMvVZ0tJx18n46SH8mHpI"}
+[WORKER] GET /the-cookbook/login?u=giacomo
+	FROM: ::1 | TIME: 2023-08-10T14:46:45.913Z
+	WPID: 6456
+	HEADER: p:Mf1305-1
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:b2778a9b-c9c9-4b79-928c-99fd9c35fa7b
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AC1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.%2BGUu4UmjqvnI279aSdYZ5p0W%2FGOkxkJj9xAGRGUylpI
+	QUERY: {"u":"giacomo"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:C1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.+GUu4UmjqvnI279aSdYZ5p0W/GOkxkJj9xAGRGUylpI"}
+[WORKER] GET /the-cookbook/api/test-auth
+	FROM: ::1 | TIME: 2023-08-10T14:46:50.993Z
+	WPID: 6456
+	HEADER: authorization:password
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:b733ca4b-20ab-4eca-8652-8124ca0504d0
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AC1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.%2BGUu4UmjqvnI279aSdYZ5p0W%2FGOkxkJj9xAGRGUylpI
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3ODgwNSwiZXhwIjoxNjk0MDk4MDA1fQ.bHJuEuvRZrgnV95iPCQLeVsjiZ01TRxZTBArXqS6gjc"}
+	COOKIES: {"connect.sid":"s:C1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.+GUu4UmjqvnI279aSdYZ5p0W/GOkxkJj9xAGRGUylpI"}
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T14:46:52.946Z
+	WPID: 6456
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:c2a59345-cefd-4430-8f6e-9729282b8fc1
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AC1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.%2BGUu4UmjqvnI279aSdYZ5p0W%2FGOkxkJj9xAGRGUylpI
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3ODgwNSwiZXhwIjoxNjk0MDk4MDA1fQ.bHJuEuvRZrgnV95iPCQLeVsjiZ01TRxZTBArXqS6gjc"}
+	COOKIES: {"connect.sid":"s:C1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.+GUu4UmjqvnI279aSdYZ5p0W/GOkxkJj9xAGRGUylpI"}
+[MASTER] time: Thu Aug 10 2023 16:48:52 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 24024
+[MASTER] port: 8080
+[MASTER] worker count: 1
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 22580 forked
+[WORKER] datasource initialized
+[WORKER] POST /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T14:48:56.939Z
+	WPID: 22580
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:6ba05b86-3338-4263-b1f1-24f3b702b73e
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: content-type:application/x-www-form-urlencoded
+	HEADER: content-length:20
+	HEADER: cookie:connect.sid=s%3AC1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.%2BGUu4UmjqvnI279aSdYZ5p0W%2FGOkxkJj9xAGRGUylpI
+	QUERY: {}
+	BODY: {"u":"giacomo","p":"Mf1305-1"}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:C1TpUMudm0CjwLHz9I4ZMQCgLE72O6z6.+GUu4UmjqvnI279aSdYZ5p0W/GOkxkJj9xAGRGUylpI"}
+[WORKER] GET /the-cookbook/api/recipe/
+	FROM: ::1 | TIME: 2023-08-10T14:49:01.334Z
+	WPID: 22580
+	HEADER: user-agent:PostmanRuntime/7.32.3
+	HEADER: accept:*/*
+	HEADER: postman-token:73f2b87e-e73f-4f08-b023-eb75040b313c
+	HEADER: host:localhost:8080
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: connection:keep-alive
+	HEADER: cookie:connect.sid=s%3AZB8IYeKG_nBgZyx0Pgn4QIy9eFNJemjx.Kt3T9E%2FuB8beFgPzLk79Oa60CyYkMxe5syRkpb2Ga9o
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3ODkzNiwiZXhwIjoxNjk0MDk4MTM2fQ.NoLAzjUYbXk5qJ_HcBDn-lVDYb7M1GNTjBT-b0H8xsA"}
+	COOKIES: {"connect.sid":"s:ZB8IYeKG_nBgZyx0Pgn4QIy9eFNJemjx.Kt3T9E/uB8beFgPzLk79Oa60CyYkMxe5syRkpb2Ga9o"}
+[WORKER] POST /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T14:52:23.864Z
+	WPID: 22580
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: content-length:15
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: origin:http://localhost:8080
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/login.html?
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AV4xCYsTGCKDZN5HnEzZsdRYHbuhKy_An.wc9UlNA9njJ6MURNjTmoQwOdgTndLO1a7SGlTOFcPE8
+	QUERY: {}
+	BODY: {"u":"","p":""}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:V4xCYsTGCKDZN5HnEzZsdRYHbuhKy_An.wc9UlNA9njJ6MURNjTmoQwOdgTndLO1a7SGlTOFcPE8"}
+[WORKER] POST /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T14:52:31.022Z
+	WPID: 22580
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: content-length:30
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: origin:http://localhost:8080
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/login.html?
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AV4xCYsTGCKDZN5HnEzZsdRYHbuhKy_An.wc9UlNA9njJ6MURNjTmoQwOdgTndLO1a7SGlTOFcPE8
+	QUERY: {}
+	BODY: {"u":"giacomo","p":"Mf1305-1"}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:V4xCYsTGCKDZN5HnEzZsdRYHbuhKy_An.wc9UlNA9njJ6MURNjTmoQwOdgTndLO1a7SGlTOFcPE8"}
+[WORKER] POST /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T14:52:37.864Z
+	WPID: 22580
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: content-length:30
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: origin:http://localhost:8080
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/login.html?
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AV4xCYsTGCKDZN5HnEzZsdRYHbuhKy_An.wc9UlNA9njJ6MURNjTmoQwOdgTndLO1a7SGlTOFcPE8
+	QUERY: {}
+	BODY: {"u":"giacomo","p":"Mf1305-1"}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTE1MSwiZXhwIjoxNjk0MDk4MzUxfQ.r9ahC11eUwKjDH8FVtuWBBplQ-KhJFDb9CfNH-Cpdgg"}
+	COOKIES: {"connect.sid":"s:V4xCYsTGCKDZN5HnEzZsdRYHbuhKy_An.wc9UlNA9njJ6MURNjTmoQwOdgTndLO1a7SGlTOFcPE8"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T14:52:40.355Z
+	WPID: 22580
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AV4xCYsTGCKDZN5HnEzZsdRYHbuhKy_An.wc9UlNA9njJ6MURNjTmoQwOdgTndLO1a7SGlTOFcPE8
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTE1NywiZXhwIjoxNjk0MDk4MzU3fQ.29Mzjmvfkn1wArz9DHmm3LazuY71I5PFtyMGIdzvfrE"}
+	COOKIES: {"connect.sid":"s:V4xCYsTGCKDZN5HnEzZsdRYHbuhKy_An.wc9UlNA9njJ6MURNjTmoQwOdgTndLO1a7SGlTOFcPE8"}
+[WORKER] GET /the-cookbook/logout
+	FROM: ::1 | TIME: 2023-08-10T14:53:39.718Z
+	WPID: 22580
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: upgrade-insecure-requests:1
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:navigate
+	HEADER: sec-fetch-user:?1
+	HEADER: sec-fetch-dest:document
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AV4xCYsTGCKDZN5HnEzZsdRYHbuhKy_An.wc9UlNA9njJ6MURNjTmoQwOdgTndLO1a7SGlTOFcPE8
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTE1NywiZXhwIjoxNjk0MDk4MzU3fQ.29Mzjmvfkn1wArz9DHmm3LazuY71I5PFtyMGIdzvfrE"}
+	COOKIES: {"connect.sid":"s:V4xCYsTGCKDZN5HnEzZsdRYHbuhKy_An.wc9UlNA9njJ6MURNjTmoQwOdgTndLO1a7SGlTOFcPE8"}
+[MASTER] time: Thu Aug 10 2023 16:54:44 GMT+0200 (Ora legale dell’Europa centrale)
+[MASTER] pid: 20324
+[MASTER] worker count: 1
+[MASTER] port: 8080
+[MASTER] listening on http://localhost:8080/the-cookbook
+[MASTER] worker pid 8656 forked
+[WORKER] datasource initialized
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T14:54:50.472Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] POST /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T14:54:55.028Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: content-length:26
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: origin:http://localhost:8080
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/login.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	QUERY: {}
+	BODY: {"u":"giacomo","p":"aaaa"}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] POST /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T14:54:58.591Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: content-length:24
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: origin:http://localhost:8080
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/login.html?
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	QUERY: {}
+	BODY: {"u":"asdasd","p":"eee"}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] POST /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T14:55:03.670Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: content-length:30
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: origin:http://localhost:8080
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/login.html?
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	QUERY: {}
+	BODY: {"u":"giacomo","p":"Mf1305-1"}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] POST /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T14:56:45.406Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: content-length:25
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: origin:http://localhost:8080
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/login.html?
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	QUERY: {}
+	BODY: {"u":"giacomo","p":"aaa"}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTMwMywiZXhwIjoxNjk0MDk4NTAzfQ.kkGcFdi9OO2k-xYUbrKYchU7_LKe1xMw7khuYx54Dsk"}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] POST /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T14:56:50.319Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: content-length:30
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: origin:http://localhost:8080
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/login.html?
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	QUERY: {}
+	BODY: {"u":"giacomo","p":"Mf1305-1"}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTMwMywiZXhwIjoxNjk0MDk4NTAzfQ.kkGcFdi9OO2k-xYUbrKYchU7_LKe1xMw7khuYx54Dsk"}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T14:56:51.637Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTQxMCwiZXhwIjoxNjk0MDk4NjEwfQ.XilkiSLOUHHyVGdN9MYhDINzWgsNrIl4QALw-oBqAoM"}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] GET /the-cookbook/api/recipe?rid=6
+	FROM: ::1 | TIME: 2023-08-10T14:56:53.759Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=6
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	QUERY: {"rid":"6"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTQxMCwiZXhwIjoxNjk0MDk4NjEwfQ.XilkiSLOUHHyVGdN9MYhDINzWgsNrIl4QALw-oBqAoM"}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T14:56:54.938Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTQxMCwiZXhwIjoxNjk0MDk4NjEwfQ.XilkiSLOUHHyVGdN9MYhDINzWgsNrIl4QALw-oBqAoM"}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] GET /the-cookbook/api/recipe?rid=10
+	FROM: ::1 | TIME: 2023-08-10T14:56:58.509Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=10
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	QUERY: {"rid":"10"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTQxMCwiZXhwIjoxNjk0MDk4NjEwfQ.XilkiSLOUHHyVGdN9MYhDINzWgsNrIl4QALw-oBqAoM"}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T14:57:06.523Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTQxMCwiZXhwIjoxNjk0MDk4NjEwfQ.XilkiSLOUHHyVGdN9MYhDINzWgsNrIl4QALw-oBqAoM"}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] GET /the-cookbook/logout
+	FROM: ::1 | TIME: 2023-08-10T14:57:09.045Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: upgrade-insecure-requests:1
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:navigate
+	HEADER: sec-fetch-user:?1
+	HEADER: sec-fetch-dest:document
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTQxMCwiZXhwIjoxNjk0MDk4NjEwfQ.XilkiSLOUHHyVGdN9MYhDINzWgsNrIl4QALw-oBqAoM"}
+	COOKIES: {"connect.sid":"s:ETE452YSC2ggTRo8M7DdK5OaxwybkuXR.dxmtAKQo66UcD0XzNY6Sb25p2Wk1bdcqL7fB9rE7PbQ"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T15:00:30.913Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AInucwdT1w27ph75531YdbUTLCmmicSfH.M5pTajpiIgXHoa9BkhWZn88nVnXqW3n1u5A%2BtX2%2FTSc
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:InucwdT1w27ph75531YdbUTLCmmicSfH.M5pTajpiIgXHoa9BkhWZn88nVnXqW3n1u5A+tX2/TSc"}
+[WORKER] POST /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T15:00:35.507Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: content-length:30
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: origin:http://localhost:8080
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/login.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AInucwdT1w27ph75531YdbUTLCmmicSfH.M5pTajpiIgXHoa9BkhWZn88nVnXqW3n1u5A%2BtX2%2FTSc
+	QUERY: {}
+	BODY: {"u":"giacomo","p":"Mf1305-1"}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:InucwdT1w27ph75531YdbUTLCmmicSfH.M5pTajpiIgXHoa9BkhWZn88nVnXqW3n1u5A+tX2/TSc"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T15:00:35.569Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AInucwdT1w27ph75531YdbUTLCmmicSfH.M5pTajpiIgXHoa9BkhWZn88nVnXqW3n1u5A%2BtX2%2FTSc
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTYzNSwiZXhwIjoxNjk0MDk4ODM1fQ.i_73s5Z3e1xhXQ9iBKFJhAExzZIYbioXyuG7X5L_sik"}
+	COOKIES: {"connect.sid":"s:InucwdT1w27ph75531YdbUTLCmmicSfH.M5pTajpiIgXHoa9BkhWZn88nVnXqW3n1u5A+tX2/TSc"}
+[WORKER] GET /the-cookbook/logout
+	FROM: ::1 | TIME: 2023-08-10T15:00:45.001Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AInucwdT1w27ph75531YdbUTLCmmicSfH.M5pTajpiIgXHoa9BkhWZn88nVnXqW3n1u5A%2BtX2%2FTSc
+	HEADER: if-none-match:W/"2-nOO9QiTIwXgNtWtBJezz8kv3SLc"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY3OTYzNSwiZXhwIjoxNjk0MDk4ODM1fQ.i_73s5Z3e1xhXQ9iBKFJhAExzZIYbioXyuG7X5L_sik"}
+	COOKIES: {"connect.sid":"s:InucwdT1w27ph75531YdbUTLCmmicSfH.M5pTajpiIgXHoa9BkhWZn88nVnXqW3n1u5A+tX2/TSc"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T15:00:46.036Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T15:01:08.660Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::ffff:192.168.0.120 | TIME: 2023-08-10T16:24:55.399Z
+	WPID: 8656
+	HEADER: host:192.168.0.109:8080
+	HEADER: connection:keep-alive
+	HEADER: accept:application/json
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: referer:http://192.168.0.109:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate
+	HEADER: accept-language:it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+	HEADER: cookie:connect.sid=s%3Auco1TaUy_HJJas3uTeNyAVLC31frfwyA.vAh%2BYMnmfOatMTgLarcu0AdRan9BgtBZWR4JHfxR60k
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:uco1TaUy_HJJas3uTeNyAVLC31frfwyA.vAh+YMnmfOatMTgLarcu0AdRan9BgtBZWR4JHfxR60k"}
+[WORKER] POST /the-cookbook/login
+	FROM: ::ffff:192.168.0.120 | TIME: 2023-08-10T16:25:01.173Z
+	WPID: 8656
+	HEADER: host:192.168.0.109:8080
+	HEADER: connection:keep-alive
+	HEADER: content-length:30
+	HEADER: accept:application/json
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: origin:http://192.168.0.109:8080
+	HEADER: referer:http://192.168.0.109:8080/the-cookbook/login.html
+	HEADER: accept-encoding:gzip, deflate
+	HEADER: accept-language:it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+	HEADER: cookie:connect.sid=s%3Auco1TaUy_HJJas3uTeNyAVLC31frfwyA.vAh%2BYMnmfOatMTgLarcu0AdRan9BgtBZWR4JHfxR60k
+	QUERY: {}
+	BODY: {"u":"giacomo","p":"Mf1305-1"}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:uco1TaUy_HJJas3uTeNyAVLC31frfwyA.vAh+YMnmfOatMTgLarcu0AdRan9BgtBZWR4JHfxR60k"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::ffff:192.168.0.120 | TIME: 2023-08-10T16:25:01.266Z
+	WPID: 8656
+	HEADER: host:192.168.0.109:8080
+	HEADER: connection:keep-alive
+	HEADER: accept:application/json
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: referer:http://192.168.0.109:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate
+	HEADER: accept-language:it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+	HEADER: cookie:connect.sid=s%3Auco1TaUy_HJJas3uTeNyAVLC31frfwyA.vAh%2BYMnmfOatMTgLarcu0AdRan9BgtBZWR4JHfxR60k
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY4NDcwMSwiZXhwIjoxNjk0MTAzOTAxfQ.w8lvlkeIWzmajdRJaCE2BihrcsVQkrGHvJkVVex4rZg"}
+	COOKIES: {"connect.sid":"s:uco1TaUy_HJJas3uTeNyAVLC31frfwyA.vAh+YMnmfOatMTgLarcu0AdRan9BgtBZWR4JHfxR60k"}
+[WORKER] GET /the-cookbook/api/recipe?rid=6
+	FROM: ::ffff:192.168.0.120 | TIME: 2023-08-10T16:25:05.448Z
+	WPID: 8656
+	HEADER: host:192.168.0.109:8080
+	HEADER: connection:keep-alive
+	HEADER: accept:application/json
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: referer:http://192.168.0.109:8080/the-cookbook/view-recipe.html?rid=6
+	HEADER: accept-encoding:gzip, deflate
+	HEADER: accept-language:it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+	HEADER: cookie:connect.sid=s%3Auco1TaUy_HJJas3uTeNyAVLC31frfwyA.vAh%2BYMnmfOatMTgLarcu0AdRan9BgtBZWR4JHfxR60k
+	QUERY: {"rid":"6"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY4NDcwMSwiZXhwIjoxNjk0MTAzOTAxfQ.w8lvlkeIWzmajdRJaCE2BihrcsVQkrGHvJkVVex4rZg"}
+	COOKIES: {"connect.sid":"s:uco1TaUy_HJJas3uTeNyAVLC31frfwyA.vAh+YMnmfOatMTgLarcu0AdRan9BgtBZWR4JHfxR60k"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::ffff:192.168.0.120 | TIME: 2023-08-10T16:25:06.725Z
+	WPID: 8656
+	HEADER: host:192.168.0.109:8080
+	HEADER: connection:keep-alive
+	HEADER: accept:application/json
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: referer:http://192.168.0.109:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate
+	HEADER: accept-language:it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+	HEADER: cookie:connect.sid=s%3Auco1TaUy_HJJas3uTeNyAVLC31frfwyA.vAh%2BYMnmfOatMTgLarcu0AdRan9BgtBZWR4JHfxR60k
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTY4NDcwMSwiZXhwIjoxNjk0MTAzOTAxfQ.w8lvlkeIWzmajdRJaCE2BihrcsVQkrGHvJkVVex4rZg"}
+	COOKIES: {"connect.sid":"s:uco1TaUy_HJJas3uTeNyAVLC31frfwyA.vAh+YMnmfOatMTgLarcu0AdRan9BgtBZWR4JHfxR60k"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T21:29:44.857Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] POST /the-cookbook/login
+	FROM: ::1 | TIME: 2023-08-10T21:29:59.154Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: content-length:30
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: origin:http://localhost:8080
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/login.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	QUERY: {}
+	BODY: {"u":"giacomo","p":"Mf1305-1"}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"}}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T21:29:59.212Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-10T21:30:16.005Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	QUERY: {"rid":"12"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-10T21:30:17.750Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/edit-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-10T21:32:56.038Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/edit-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-10T21:34:27.229Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/edit-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-10T21:34:40.036Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/edit-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-10T21:36:07.423Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/edit-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-10T21:36:45.067Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/edit-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T21:36:47.316Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-10T21:36:48.296Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-10T21:36:49.408Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/edit-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T21:37:51.742Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe?rid=12
+	FROM: ::1 | TIME: 2023-08-10T21:37:57.898Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=12
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"68f-XIjm2+YPGNOGRfY4ooKnHFqTo/4"
+	QUERY: {"rid":"12"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T21:38:00.636Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe?rid=6
+	FROM: ::1 | TIME: 2023-08-10T21:38:02.002Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/view-recipe.html?rid=6
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"877-Oye+/K0+aFV95LwEWe+mTdyQnmQ"
+	QUERY: {"rid":"6"}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}
+[WORKER] GET /the-cookbook/api/recipe
+	FROM: ::1 | TIME: 2023-08-10T21:38:03.070Z
+	WPID: 8656
+	HEADER: host:localhost:8080
+	HEADER: connection:keep-alive
+	HEADER: sec-ch-ua:"Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+	HEADER: accept:application/json
+	HEADER: content-type:application/json;charset=UTF-8
+	HEADER: sec-ch-ua-mobile:?0
+	HEADER: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+	HEADER: sec-ch-ua-platform:"Windows"
+	HEADER: sec-fetch-site:same-origin
+	HEADER: sec-fetch-mode:cors
+	HEADER: sec-fetch-dest:empty
+	HEADER: referer:http://localhost:8080/the-cookbook/cookbook.html
+	HEADER: accept-encoding:gzip, deflate, br
+	HEADER: accept-language:it-IT,it;q=0.9,en-GB;q=0.8,en;q=0.7,en-US;q=0.6
+	HEADER: cookie:connect.sid=s%3AA7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ%2BaXQxojc%2BYSEL0o
+	HEADER: if-none-match:W/"3593-RfT+q6BmiKBmXsWLlHHNBS4N8Bs"
+	QUERY: {}
+	BODY: {}
+	SESSION: {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"jwt":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZ2lhY29tbyIsImlhdCI6MTY5MTcwMjk5OSwiZXhwIjoxNjk0MTIyMTk5fQ.d-pBz10F-GljTvPbS0BB2Jgp9FLt1JhSjS_HlazdEoM"}
+	COOKIES: {"connect.sid":"s:A7clCYOLi3N8jftxGPut5VuDmdvSIT7n.tSo7tCa7RLjOnTuATVUnzFxCg9tQ+aXQxojc+YSEL0o"}

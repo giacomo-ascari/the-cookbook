@@ -1,0 +1,30 @@
+// postgres
+
+sudo apt install postgresql postgresql-contrib
+
+sudo -u postgres psql
+
+// create user (and db with same name mandatory)
+sudo -u postgres createdb sammy
+sudo -u postgres createuser --interactive
+sudo adduser sammy
+sudo -u sammy psql
+
+sudo nano /etc/postgresql/12/main/postgresql.conf
+> listen_addresses = '*'
+
+sudo nano /etc/postgresql/12/main/pg_hba.conf
+> host all all 0.0.0.0/0 md5
+
+// firewall
+
+sudo ufw allow
+sudo ufw status --verbose
+
+// node and ts
+npm init
+npm install typescript
+tsc --init
+
+//type orm
+tpyeorm init
